@@ -1,5 +1,5 @@
 name: 'Dind action'
-description: "Runs make targets passed as parameter"
+description: "Runs docker commands passed in as args"
 
 runs:
   using: 'docker'
