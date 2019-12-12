@@ -1,0 +1,6 @@
+name: 'Dind action'
+description: "Runs make targets passed as parameter"
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
