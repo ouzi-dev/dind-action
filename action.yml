@@ -1,5 +1,8 @@
 name: 'Dind action'
 description: "Runs docker commands passed in as args"
+branding:
+  icon: 'box'  
+  color: 'blue'
 
 runs:
   using: 'docker'
